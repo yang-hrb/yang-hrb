@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python, SQL, Tableau and DOcplex.
+- 🔭 My current working tools: Python, SQL, Tableau and DOcplex.
 - 🌱 I’m currently learning Linux server setup and Leetcode.
 
 ### Plans
 
+- [ ] Java
 - [ ] Github Pages
 - [ ] Github Actions
 - [ ] AWS EC2 host a website
