@@ -2,7 +2,13 @@
 
 - 🔭 I’m currently working on Python, SQL, Tableau and DOcplex.
 - 🌱 I’m currently learning Linux server setup and Leetcode.
-- [yang-hrb.github.io](https://yang-hrb.github.io/)
+
+### Plans
+
+- [] Github Pages
+- [] Github Actions
+- [] AWS EC2 host a website
+
 
 <!--
 **yang-hrb/yang-hrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- [yang-hrb.github.io](https://yang-hrb.github.io/)
+
 -->
