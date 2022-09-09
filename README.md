@@ -5,9 +5,9 @@
 
 ### Plans
 
--[ ] Github Pages
--[ ] Github Actions
--[ ] AWS EC2 host a website
+- [ ] Github Pages
+- [ ] Github Actions
+- [ ] AWS EC2 host a website
 
 
 <!--
