@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 
 
 - 🔭 My current working tools: Python, SQL, Tableau and DOcplex.
 - 🌱 I’m currently learning Linux server setup and Leetcode.
@@ -12,6 +12,7 @@
 
 
 <!--
+### Hi there 👋
 **yang-hrb/yang-hrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
