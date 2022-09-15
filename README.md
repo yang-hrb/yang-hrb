@@ -3,6 +3,11 @@
 - 🔭 My current working tools: Python, SQL, Tableau and DOcplex.
 - 🌱 I’m currently learning Linux server setup and Leetcode.
 
+
+
+
+<!--
+
 ### Plans
 
 - [ ] Java
@@ -11,7 +16,7 @@
 - [ ] AWS EC2 host a website
 
 
-<!--
+
 ### Hi there 👋
 **yang-hrb/yang-hrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
