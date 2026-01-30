@@ -1,7 +1,7 @@
 ### Hi there! 
 
-- 🔭 My current working tools: Python, SQL, Tableau and DOcplex.
-- 🌱 I’m currently learning Linux server setup and Leetcode.
+- 🔭 My current working tools: Github Copilot and Codex
+- 🌱 I’m currently learning create some fancy projects
 
 
 
