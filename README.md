@@ -1,6 +1,6 @@
 ### Hi there! 
 
-- 🔭 My current working tools: Github Copilot and Codex
+- 🔭 My current working tools: Claude Code and Open Code
 - 🌱 I’m currently learning create some fancy projects
 
 
